@@ -1,5 +1,5 @@
 # Software Steering Council team-compass
-A repository for team interaction, syncing, and handling meeting notes for
+A repository for team interaction, syncing, and handling [meeting notes](https://github.com/jupyter/software-steering-council-team-compass/issues/2) for
 the Jupyter Software Steering Council.
 
 This repository is **NOT** for opening or discussing JEPs. This can be done in the [dedicated repository](https://github.com/jupyter/enhancement-proposals).
