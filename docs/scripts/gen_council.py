@@ -10,7 +10,7 @@ from ruamel import yaml
 N_PER_ROW = 4
 
 # Init
-path_data = op.join(op.dirname(op.abspath(__file__)), "..", "team")
+path_data = op.join(op.dirname(op.abspath(__file__)), "..")
 yaml = yaml.YAML()
 
 template = '<td align="center" class="member_entry"><a href="{HANDLE_URL}"><img src="{AVATAR_URL}" class="headshot" alt="{NAME}" /><br /><p class="name"><b>{NAME}</b></p></a><p class="member_affiliation">{AFFILIATION}</p>'
@@ -48,9 +48,10 @@ def _generate_council(members):
     final_text = "\n".join(final_text)
     return final_text
 
+
 # Load council member list
 source_dir = pathlib.Path(path_data)
-council_file = source_dir / "council.yml"
+council_file = source_dir / "council.yaml"
 with open(council_file, "r") as ff:
     data = yaml.load(ff)
 
