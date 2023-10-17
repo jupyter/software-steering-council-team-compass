@@ -6,7 +6,7 @@ This repository is **NOT** for opening or discussing JEPs. This can be done in t
 
 ## How the Software Steering Council operates
 
-The Software Steering Council (SSC) is an asynchronous-first council. We do our best not to _require_ synchronous meetings with the whole council since we span various timezones and aim to keep a robust record of all communications. To facilitate this style, we organize our work and track in-flight tasks, using a [Github project board](https://github.com/orgs/jupyter/projects/10/views/1).
+The Software Steering Council (SSC) is an asynchronous-first council. We do our best not to _require_ synchronous meetings with the whole council since we span various timezones and aim to keep a robust record of all communications. To facilitate this style, we organize our work and track in-flight tasks using a [Github project board](https://github.com/orgs/jupyter/projects/10/views/1).
 
 That said, we recognize that some "synchronous" time is beneficial to grow our relationships on the council and offer a place for the community to meet the council members.
 
