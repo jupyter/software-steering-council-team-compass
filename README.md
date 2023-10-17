@@ -12,7 +12,7 @@ That said, we recognize that some "synchronous" time is beneficial to grow our r
 
 Thus, we host a weekly, public "office hour" where available SSC members gather to review JEPs, refine process, and triage/organize tasks. No decisions should be made in these meetings; rather, it's a place to meet-and-greet, answer questions, and organize ourselves for the coming week.
 
-Finally ,we use two channels for all of our communication:
+Finally, we use two channels for all of our communication:
 1. For private discussion, we use a google group, jupyter-software-steering-council@googlegroups.com
 2. For public discussion, we use a [team-compass repository](https://github.com/jupyter/software-steering-council-team-compass) on Github.
 
