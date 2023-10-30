@@ -28,8 +28,8 @@
   affiliation: QuantStack
   team: active
 
-- name: Isabela Presedo-Floyd
-  handle: "@isabela-pf"
+- name: Gabriel Fouasnon
+  handle: "@gabalafou"
   affiliation: Quansight
   team: active
 
@@ -48,12 +48,7 @@
   affiliation: UC San Diego
   team: active
 
-
-
-
-
-
-
-
-
-
+- name: Isabela Presedo-Floyd
+  handle: "@isabela-pf"
+  affiliation: Quansight
+  team: inactive
