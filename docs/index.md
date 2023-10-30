@@ -41,6 +41,16 @@ In short, we'll first seek an informal consensus. If a clear consensus cannot be
 
 ```
 
+## Council Alumni
+
+Previous council members
+
+```{eval-rst}
+
+.. include:: inactive.txt
+
+```
+
 ## Code of Conduct
 
 The Jupyter Software Steering Council follows the broader
