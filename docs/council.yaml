@@ -13,6 +13,11 @@
   affiliation: QuantStack
   team: active
 
+- name: Martha Cryan
+  handle: "@marthacryan"
+  affiliation: Mito
+  team: active
+
 - name: Itay Dafna
   handle: "@ibdafna"
   affiliation: Netflix
@@ -51,4 +56,9 @@
 - name: Isabela Presedo-Floyd
   handle: "@isabela-pf"
   affiliation: Quansight
+  team: inactive
+
+- name: Carol Willing
+  handle: "@willingc"
+  affiliation: Willing Consulting
   team: inactive
