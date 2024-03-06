@@ -8,11 +8,6 @@
   affiliation: Mito
   team: active
 
-- name: Itay Dafna
-  handle: "@ibdafna"
-  affiliation: Netflix
-  team: active
-
 - name: Paul Ivanov
   handle: "@ivanov"
   affiliation: Noteable
@@ -31,6 +26,11 @@
 - name: Min Ragan-Kelley
   handle: "@minrk"
   affiliation: Simula Research Lab
+  team: active
+
+- name: Martin Renou
+  handle: "@martinRenou"
+  affiliation: QuantStack
   team: active
 
 - name: Zach Sailer
@@ -56,6 +56,11 @@
 - name: Frédéric Collonval
   handle: "@fcollonval"
   affiliation: QuantStack
+  team: inactive
+
+- name: Itay Dafna
+  handle: "@ibdafna"
+  affiliation: Netflix
   team: inactive
 
 - name: Isabela Presedo-Floyd
