@@ -10,7 +10,6 @@
 
 - name: Paul Ivanov
   handle: "@ivanov"
-  affiliation: Noteable
   team: active
 
 - name: Johan Mabille
@@ -33,11 +32,6 @@
   affiliation: QuantStack
   team: active
 
-- name: Zach Sailer
-  handle: "@Zsailer"
-  affiliation: Apple
-  team: active
-
 - name: Jeremy Tuloup
   handle: "@jtpio"
   affiliation: QuantStack
@@ -48,27 +42,26 @@
   affiliation: UC San Diego
   team: active
 
+- name: Zach Sailer
+  handle: "@Zsailer"
+  team: inactive
+
 - name: Eric Charles
   handle: "@echarles"
-  affiliation: Datalayer
   team: inactive
 
 - name: Frédéric Collonval
   handle: "@fcollonval"
-  affiliation: QuantStack
   team: inactive
 
 - name: Itay Dafna
   handle: "@ibdafna"
-  affiliation: Netflix
   team: inactive
 
 - name: Isabela Presedo-Floyd
   handle: "@isabela-pf"
-  affiliation: Quansight
   team: inactive
 
 - name: Carol Willing
   handle: "@willingc"
-  affiliation: Willing Consulting
   team: inactive
