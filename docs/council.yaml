@@ -12,14 +12,19 @@
   handle: "@ivanov"
   team: active
 
-- name: Johan Mabille
-  handle: "@JohanMabille"
-  affiliation: QuantStack
+- name: Vidar Tonaas Fauske
+  handle: "@vidartf"
+  affiliation: JP Morgan Chase
   team: active
 
 - name: Gabriel Fouasnon
   handle: "@gabalafou"
   affiliation: Quansight
+  team: active
+
+- name: Johan Mabille
+  handle: "@JohanMabille"
+  affiliation: QuantStack
   team: active
 
 - name: Min Ragan-Kelley
